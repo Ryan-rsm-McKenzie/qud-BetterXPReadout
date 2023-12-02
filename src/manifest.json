@@ -1,0 +1,6 @@
+{
+	"Author": "Ryan McKenzie",
+	"Description": "Edits the XP bar so it tracks XP required for your next level instead of cumulative XP over all levels.",
+	"ID": "RSM_BetterXPReadout",
+	"Version": "1.0.0"
+}

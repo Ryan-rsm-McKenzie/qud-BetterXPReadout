@@ -1,0 +1,8 @@
+{
+  "WorkshopId": 3102694529,
+  "Title": "Better XP Bar Readout",
+  "Description": "Edits the XP bar so it tracks XP required for your next level instead of cumulative XP over all levels.",
+  "Tags": "Script,Stable",
+  "Visibility": "0",
+  "ImagePath": "preview.png"
+}
